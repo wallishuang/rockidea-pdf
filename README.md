@@ -38,7 +38,9 @@ If you would like to support me for better quality and new features, you can don
 
 Thank you for your support!
 
-### 中文版本
+---
+
+## 中文版本
 
 最新的版本是 [v2.0.1](https://github.com/wallishuang/rockidea-pdf/blob/master/v2.0.1/rockidea-pdf.exe)，請下載並執行 rockidea-pdf.exe 檔案。
 
