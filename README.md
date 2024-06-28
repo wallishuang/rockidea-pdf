@@ -17,8 +17,9 @@ If you would like to support me for better quality and new features, you can don
   ![S__463265796](https://github.com/wallishuang/rockidea-pdf/assets/20389849/593e40f0-354e-406c-bb0d-99fb13a00625)
 
 - PayPal Me:
-
-  paypal.me/wallisfree
+  
+  [paypal.me/wallisfree](https://paypal.me/wallisfree?_blank)
+  
 
 
 Thank you for your support!
