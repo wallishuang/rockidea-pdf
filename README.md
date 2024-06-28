@@ -12,7 +12,7 @@ Choose the section corresponding to the language you prefer to read.
 ---
 
 ## English Version
-The latest release version is [v2.0.1](<https://github.com/wallishuang/rockidea-pdf/blob/master/v2.0.1/rockidea-pdf.exe>)
+The latest release version is [v2.0.1](https://github.com/wallishuang/rockidea-pdf/raw/master/v2.0.1/rockidea-pdf.exe)
 
 Please download and execute the rockidea-pdf.exe file.  
 
