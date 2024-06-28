@@ -46,7 +46,8 @@ Thank you for your support!
 
 你可以在介面上設置為您熟悉的一種語言。
 
-![應用程式截圖](https://github.com/wallishuang/rockidea-pdf/assets/20389849/f885b896-1ee9-4c0a-9a35-0a9f2b4b3464)
+![image](https://github.com/wallishuang/rockidea-pdf/assets/20389849/57873c42-9057-4001-a3a9-46c1f425a284)
+
 
 如果您想要支持我，以改進品質和增加新功能，可以通過以下方式：
 
@@ -73,7 +74,7 @@ rockidea-pdf.exe ファイルをダウンロードして実行してください
 
 利用可能な言語をお好みで設定できます。
 
-![画像](https://github.com/wallishuang/rockidea-pdf/assets/20389849/f885b896-1ee9-4c0a-9a35-0a9f2b4b3464)
+![image](https://github.com/wallishuang/rockidea-pdf/assets/20389849/aae27d01-a23c-4be6-a1c8-071362b6888c)
 
 より良い品質と新機能のためにサポートしていただける場合は、以下の方法で寄付いただけます：
 
