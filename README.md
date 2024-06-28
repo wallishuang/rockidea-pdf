@@ -1,7 +1,7 @@
 
 ---
 
-**Language Selection / 言語選択**
+**Language Selection / 語系選擇 / 言語選択**
 
 - [English Version](#english-version)
 - [中文版](#中文版本)
