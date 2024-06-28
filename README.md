@@ -40,7 +40,11 @@ Choose the section corresponding to the language you prefer to read.
 - PayPal Me:
   
   [paypal.me/wallisfree](https://paypal.me/wallisfree?_blank)
+
+- PayPal:
   
+  ![RockIdeaPDF-qrcode](https://github.com/wallishuang/rockidea-pdf/assets/20389849/ee59acf7-58f3-4d5c-b5dd-3667ff3df394)
+
 
 
 Thank you for your support!
@@ -75,6 +79,10 @@ Thank you for your support!
   
   [paypal.me/wallisfree](https://paypal.me/wallisfree?_blank)
 
+- PayPal:
+  
+  ![RockIdeaPDF-qrcode](https://github.com/wallishuang/rockidea-pdf/assets/20389849/ee59acf7-58f3-4d5c-b5dd-3667ff3df394)
+  
 感謝您的支持！
 
 ---
@@ -108,5 +116,9 @@ Thank you for your support!
 - PayPal Me:
   
   [paypal.me/wallisfree](https://paypal.me/wallisfree?_blank)
+  
+- PayPal:
+  
+  ![RockIdeaPDF-qrcode](https://github.com/wallishuang/rockidea-pdf/assets/20389849/ee59acf7-58f3-4d5c-b5dd-3667ff3df394)
 
 ご支援ありがとうございます！
