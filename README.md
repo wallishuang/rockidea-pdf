@@ -51,7 +51,7 @@ Thank you for your support!
 
 如果有其他客製化需求，歡迎來信討論，也提供付費服務。
 
-最新的版本是 [v2.0.1](https://github.com/wallishuang/rockidea-pdf/blob/master/v2.0.1/rockidea-pdf.exe)，請下載並執行 rockidea-pdf.exe 檔案。
+最新的版本是 [v2.0.1](https://github.com/wallishuang/rockidea-pdf/raw/master/v2.0.1/rockidea-pdf.exe)，請下載並執行 rockidea-pdf.exe 檔案。
 
 你可以在介面上選擇您熟悉的語系。
 
@@ -81,7 +81,7 @@ Thank you for your support!
 
 他にカスタマイズのご要望があれば、お気軽にご連絡ください。有料のサービスもご提供しています。
 
-最新のリリースバージョンは [v2.0.1](https://github.com/wallishuang/rockidea-pdf/blob/master/v2.0.1/rockidea-pdf.exe) です。
+最新のリリースバージョンは [v2.0.1](https://github.com/wallishuang/rockidea-pdf/raw/master/v2.0.1/rockidea-pdf.exe) です。
 
 rockidea-pdf.exe ファイルをダウンロードして実行してください。
 
