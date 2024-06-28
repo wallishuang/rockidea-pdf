@@ -40,15 +40,13 @@ Thank you for your support!
 
 ### 中文版本
 
-# 最新版本發佈資訊
-
 最新的版本是 [v2.0.1](https://github.com/wallishuang/rockidea-pdf/blob/master/v2.0.1/rockidea-pdf.exe)，請下載並執行 rockidea-pdf.exe 檔案。
 
-您可以將語言設置為您熟悉的一種語言。
+你可以在介面上設置為您熟悉的一種語言。
 
 ![應用程式截圖](https://github.com/wallishuang/rockidea-pdf/assets/20389849/f885b896-1ee9-4c0a-9a35-0a9f2b4b3464)
 
-如果您想要支持我們，以改進質量和增加新功能，可以通過以下方式捐贈：
+如果您想要支持我，以改進品質和增加新功能，可以通過以下方式：
 
 - Line Pay:
   
