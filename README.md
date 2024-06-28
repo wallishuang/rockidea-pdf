@@ -10,11 +10,11 @@ If you would like to support me for better quality and new features, you can don
 
 - Line Pay:
   
-  ![S__463265794_LinePay](https://github.com/wallishuang/rockidea-pdf/assets/20389849/e324a3d0-1239-4117-b9a0-a71d7c4998e6)
+  ![S__463265794_LinePay](https://github.com/wallishuang/rockidea-pdf/assets/20389849/9b2a9045-90cc-4d63-ad9d-ff7c7b82ec9a)
 
 - Ali Pay:
 
-  ![S__463265796](https://github.com/wallishuang/rockidea-pdf/assets/20389849/b036aed4-8bf9-4d4a-b4e9-d5418d7a9933)
+  ![S__463265796](https://github.com/wallishuang/rockidea-pdf/assets/20389849/593e40f0-354e-406c-bb0d-99fb13a00625)
 
 - PayPal Me:
 
