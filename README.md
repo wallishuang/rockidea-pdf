@@ -13,7 +13,9 @@ Choose the section corresponding to the language you prefer to read.
 
 ## English Version
 
-This is a wonderful free PDF tool that helps you merge multiple PDF files or split a single PDF file into multiple files.
+This is a free PDF tool developed by myself, offering the ability to merge multiple PDF files or split a single PDF file into multiple files. 
+
+If you have other customization needs, please feel free to contact me for discussion. Paid services are also available.
 
 The latest release version is [v2.0.1](https://github.com/wallishuang/rockidea-pdf/raw/master/v2.0.1/rockidea-pdf.exe)
 
@@ -45,14 +47,15 @@ Thank you for your support!
 
 ## 中文版本
 
-這是一款很棒的免費 PDF 工具，可以幫助您合併多個 PDF 文件或將單個 PDF 文件拆分為多個文件。
+這是一款我自己開發的免費 PDF 工具，提供合併多個 PDF 文件或將單個 PDF 文件拆分為多個文件。
+
+如果有其他客製化需求，歡迎來信討論，也提供付費服務。
 
 最新的版本是 [v2.0.1](https://github.com/wallishuang/rockidea-pdf/blob/master/v2.0.1/rockidea-pdf.exe)，請下載並執行 rockidea-pdf.exe 檔案。
 
-你可以在介面上設置為您熟悉的一種語言。
+你可以在介面上選擇您熟悉的語系。
 
 ![image](https://github.com/wallishuang/rockidea-pdf/assets/20389849/57873c42-9057-4001-a3a9-46c1f425a284)
-
 
 如果您想要支持我，以改進品質和增加新功能，可以通過以下方式：
 
@@ -74,7 +77,9 @@ Thank you for your support!
 
 ## 日本語版
 
-これは素晴らしい無料のPDFツールで、複数のPDFファイルを結合したり、単一のPDFファイルを複数のファイルに分割したりするのに役立ちます。
+これは私自身が開発した無料のPDFツールで、複数のPDFファイルを結合したり、1つのPDFファイルを複数のファイルに分割したりすることができます。
+
+他にカスタマイズのご要望があれば、お気軽にご連絡ください。有料のサービスもご提供しています。
 
 最新のリリースバージョンは [v2.0.1](https://github.com/wallishuang/rockidea-pdf/blob/master/v2.0.1/rockidea-pdf.exe) です。
 
