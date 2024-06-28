@@ -15,7 +15,7 @@ Choose the section corresponding to the language you prefer to read.
 
 - This is a standalone free PDF tool that I developed:
   1. It allows merging multiple PDF files or splitting a single PDF file into multiple files.
-  2. Runs completely locally on your computer, without using third-party servers, ensuring files are not stored and privacy is secure."
+  2. Runs completely locally on your computer. No internet required, without using third-party servers, ensuring files are not stored and privacy is secure."
 
 - If you have other customization needs, please feel free to contact me for discussion. Paid services are also available.
 
@@ -55,7 +55,7 @@ Thank you for your support!
 
 - 這是一款我自己開發的單機版的免費 PDF 工具
   1. 提供合併多個 PDF 文件或將單個 PDF 文件拆分為多個文件。
-  2. 完全本機電腦執行，不經第三方伺服器，檔案不落地，隱私安全無虞。
+  2. 完全本機電腦執行，無需網路，不經第三方伺服器，檔案不落地，隱私安全無虞。
 
 - 如果有其他客製化需求，歡迎來信討論，也提供付費服務。
 
@@ -91,7 +91,7 @@ Thank you for your support!
 
 - これは私が開発した無料のPDFツールです：
   1. 複数のPDFファイルを結合したり、単一のPDFファイルを複数のファイルに分割したりすることができます。
-  2. コンピュータ上で完全にローカルで動作し、サードパーティのサーバーを使用せず、ファイルは保存されず、プライバシーが保護されています。
+  2. コンピュータ上で完全にローカルで動作し、インターネット不要、サードパーティのサーバーを使用せず、ファイルは保存されず、プライバシーが保護されています。
 
 - 他にカスタマイズのご要望があれば、お気軽にご連絡ください。有料のサービスもご提供しています。
 
