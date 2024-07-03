@@ -47,8 +47,7 @@ Choose the section corresponding to the language you prefer to read.
 
 - Buy me a coffe
   https://buymeacoffee.com/rockidea
-  ![bmc_qr](https://github.com/wallishuang/rockidea-pdf/assets/20389849/2d55b3d2-c60f-4d98-8162-c8bb74845e1c)
-
+  ![bmc_qr_200](https://github.com/wallishuang/rockidea-pdf/assets/20389849/5a6a0466-f0fa-4533-8e40-3a31b9ccded5)
 
 
 Thank you for your support!
@@ -89,7 +88,8 @@ Thank you for your support!
 
 - Buy me a coffe
   https://buymeacoffee.com/rockidea
-  ![bmc_qr](https://github.com/wallishuang/rockidea-pdf/assets/20389849/2d55b3d2-c60f-4d98-8162-c8bb74845e1c)
+  ![bmc_qr_200](https://github.com/wallishuang/rockidea-pdf/assets/20389849/5a6a0466-f0fa-4533-8e40-3a31b9ccded5)
+
   
 感謝您的支持！
 
@@ -131,6 +131,7 @@ Thank you for your support!
 
 - Buy me a coffe
   https://buymeacoffee.com/rockidea
-  ![bmc_qr](https://github.com/wallishuang/rockidea-pdf/assets/20389849/2d55b3d2-c60f-4d98-8162-c8bb74845e1c)
+  ![bmc_qr_200](https://github.com/wallishuang/rockidea-pdf/assets/20389849/5a6a0466-f0fa-4533-8e40-3a31b9ccded5)
+
 
 ご支援ありがとうございます！
